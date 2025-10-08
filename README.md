@@ -6,7 +6,7 @@ A machine learning-powered system that forecasts e-commerce sales by analyzing h
 
 ---
 
-## Project Overview
+## Project Overview 
 
 This repository provides an end-to-end machine learning pipeline for forecasting e-commerce sales. By leveraging historical sales data, customer behaviour, seasonal trends, and external market indicators, the system produces accurate predictions to help e-commerce businesses make better inventory, pricing, and marketing decisions. Traditional forecasting often struggles with the dynamic, seasonal, and trend-driven nature of online markets, but machine learning can uncover hidden patterns and provide real-time, actionable insights.
 
