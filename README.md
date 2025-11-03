@@ -12,7 +12,7 @@ This repository provides an end-to-end machine learning pipeline for forecasting
 
 ---
 
-## Why It Matters
+## Why It Matters.
 
 Accurate sales forecasting is critical for e-commerce businesses to:
 
